@@ -1,0 +1,5 @@
+bin
+*.o
+mine
+mine32
+mine_*
